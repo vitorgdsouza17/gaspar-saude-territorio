@@ -1,0 +1,12 @@
+name: gaspar_saude_territorio
+description: Protótipo demonstrativo do Gaspar Saúde Território
+publish_to: none
+version: 0.1.0+1
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.3.0
+flutter:
+  uses-material-design: true
